@@ -1,0 +1,27 @@
+{
+  "name": "study-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktny/study-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktny/study-cypress/issues"
+  },
+  "homepage": "https://github.com/ktny/study-cypress#readme",
+  "volta": {
+    "node": "16.6.0",
+    "npm": "7.19.1"
+  },
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  }
+}
